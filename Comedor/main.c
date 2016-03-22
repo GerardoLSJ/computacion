@@ -3,7 +3,7 @@
 //  Comedor
 //
 //  Created by Sebastián Silva García on 3/21/16.
-//
+// ModifiedBY Gerry ps. Sebas es puto
 
 #include <stdio.h>
 #include <stdlib.h>
